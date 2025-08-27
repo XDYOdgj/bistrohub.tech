@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bistrohub.tech/sitemap.xml
